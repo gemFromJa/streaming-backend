@@ -15,7 +15,8 @@ Ensure FFmpeg is installed on your system
 choco install ffmpeg-full
 ```
 
-- Via Official site
+- Via Official site https://ffmpeg.org/download.html
+  
 then you can run:
 
 ```
